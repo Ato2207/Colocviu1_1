@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Colocviu1_1">
         <activity
+            android:name=".Colocviu1_1SecondaryActivity"
+            android:exported="false" />
+        <activity
             android:name=".Colocviu1_1MainActivity"
             android:exported="true">
             <intent-filter>
